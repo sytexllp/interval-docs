@@ -3,6 +3,7 @@ layout: post
 title:  "Как вести учет перевозок"
 date:   2019-11-02 17:17:30 +0200
 categories: jekyll update
+hidden: 1
 ---
 
 Сперва на сайте надо зарегистрировать
